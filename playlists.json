@@ -1,5 +1,13 @@
 {
   "playlists": {
+    "bhojpuri gane": {
+      "name": "bhojpuri gane",
+      "songs": []
+    },
+    "hindi gane": {
+      "name": "hindi gane",
+      "songs": []
+    },
     "naye gane": {
       "name": "naye gane",
       "songs": [
@@ -14,6 +22,10 @@
           "duration": 4.2
         }
       ]
+    },
+    "panjabi gane": {
+      "name": "panjabi gane",
+      "songs": []
     },
     "purane gane": {
       "name": "purane gane",
