@@ -1,0 +1,29 @@
+{
+  "playlists": {
+    "naye gane": {
+      "name": "naye gane",
+      "songs": [
+        {
+          "title": "bulya",
+          "singer": "arijit",
+          "duration": 4.3
+        },
+        {
+          "title": "millioner",
+          "singer": "honey singh",
+          "duration": 4.2
+        }
+      ]
+    },
+    "purane gane": {
+      "name": "purane gane",
+      "songs": [
+        {
+          "title": "oo mere dil k chain",
+          "singer": "kishor kumar",
+          "duration": 6.2
+        }
+      ]
+    }
+  }
+}
